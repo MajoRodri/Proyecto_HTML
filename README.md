@@ -1,5 +1,5 @@
 # 🎮 Mundo de los Videojuegos: Shooters 🎮
-==========================================================================================
+========================================================
 
 ## Descripción
 
@@ -51,6 +51,11 @@ Si ya tienes Git instalado, abre tu terminal y escribe:
 
 *LISTO, PUEDES USAR Y MODIFICAR EL CÓDIGO A TU CONVENIENCIA*
 
+
+
+## ⚠️ Nota sobre Derechos de Autor ⚠️
+
+Las imágenes de los juegos (Call of Duty, Fortnite, etc.) pertenecen a sus respectivos dueños. Este proyecto fue realizado **únicamente con fines educativos** y de aprendizaje en programación.
 
 Links de imágenes:
 https://i.pinimg.com/474x/87/91/63/879163b9179cee01973ff32fb6906c66.jpg
