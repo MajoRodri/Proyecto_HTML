@@ -16,17 +16,15 @@ Para armar esta página, seguí este orden de trabajo:
 ## 👩‍💻 Detalles del Código 👩‍💻
 
 ### HTML (El Esqueleto)
-1. **Listas Desordenadas ('<ul>'):** Las usé para agrupar todos los juegos.
-2. **Imágenes ('<img>'):** Enlazadas directamente desde la web para mostrar el arte de cada shooter.
-3. **Enlaces ('<a>'):** Configurados como botones para llevarte a la página oficial de cada juego.
+1. **Listas Desordenadas ('< ul>'):** Las usé para agrupar todos los juegos.
+2. **Imágenes ('< img>'):** Enlazadas directamente desde la web para mostrar el arte de cada shooter.
+3. **Enlaces ('< a>'):** Configurados como botones para llevarte a la página oficial de cada juego.
 
 ### CSS (Style)
 1. **CSS Grid:** Usé "display: grid" para que las tarjetas se acomoden solas dependiendo del tamaño de la pantalla.
 2. **Efecto Hover:** Las tarjetas suben un poquito ('translateY') cuando pasas el mouse.
 3. **Botones:** Personalicé los links para que parezcan botones redondeados con cambios de color.
 
-## ⚠️ Nota sobre Derechos de Autor ⚠️
-Las imágenes de los juegos (Call of Duty, Fortnite, etc.) pertenecen a sus respectivos dueños. Este proyecto fue realizado **Únicamente con fines educativos** y de aprendizaje en programación.
 
 ## 📥 Cómo descargar y ejecutar el proyecto 📥
 
